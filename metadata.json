@@ -1,0 +1,8 @@
+{
+  "name": "Gemini AI Explorer",
+  "description": "A comprehensive web application showcasing the diverse capabilities of the Gemini API, from real-time conversation and video generation to grounded search and complex reasoning.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
