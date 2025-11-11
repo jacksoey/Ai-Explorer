@@ -1,5 +1,5 @@
 
-import React, from 'react';
+import React from 'react';
 
 interface FileUploadProps {
   onFileSelect: (file: File) => void;
